@@ -1,1 +1,1 @@
-# Works_for_condition
+Работы на автомат
